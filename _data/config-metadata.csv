@@ -2,8 +2,9 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+time, Time,
 description,Description,
-materials, Materials
+materials, Materials,
 subject,Subjects,true
 location,Location
 latitude,Latitude
@@ -11,6 +12,8 @@ longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
+camera, Camera,
 format,Format,
+filesize, File Size,
 rights,Rights,
 rightsstatement,Rights Statement,,true
